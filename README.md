@@ -1,0 +1,2 @@
+# bot-tester
+for openFaas
